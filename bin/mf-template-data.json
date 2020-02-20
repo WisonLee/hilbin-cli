@@ -1,0 +1,24 @@
+{
+	"data": [
+		{"name": "主工程应用模板", "value": {"id": "protal", "url": [
+			{
+				"name": "内网",
+				"value": "git地址1"
+			},
+			{
+				"name": "外网",
+				"value": "git地址2"
+			}
+		]}},
+		{"name": "子工程应用模板", "value": {"id": "sub", "url": [
+			{
+				"name": "内网",
+				"value": "git地址3"
+			},
+			{
+				"name": "外网",
+				"value": "git地址4"
+			}
+		]}}
+	]
+}
